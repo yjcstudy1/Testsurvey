@@ -7,4 +7,4 @@ function shuffle(array) {
 }
 
 const shuffledUrls = shuffle(urls); // 將 urls 陣列進行洗牌
-window.location.href = shuffledUrls.length > 0 ? shuffledUrls[0] : 'https://yjcstudy1.github.io/survey2/';
+window.location.href = shuffledUrls.length > 0 ? shuffledUrls[0] : 'https://yjcstudy1.github.io/Testsurvey/';
